@@ -1,0 +1,1 @@
+# This file marks the 'infraestrutura' directory as a Python module.
